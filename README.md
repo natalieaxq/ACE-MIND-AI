@@ -2,6 +2,10 @@
 
 ACE MIND AI
 
+# Video Link
+
+https://drive.google.com/drive/folders/1JlXxl6riKyT6Z64DnNS60kW4GdeF7KBM?usp=drive_link
+
 ## 🧠 Description
 
 Ace Mind AI is an intelligent, AI-native academic orchestrator designed to transform how students manage their educational journey. Moving beyond simple static calendars, Ace Mind AI utilizes a Generative Language Model (GLM) to act as a personal academic strategist.
