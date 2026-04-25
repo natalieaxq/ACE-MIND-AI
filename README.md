@@ -30,6 +30,15 @@ pip install -r requirements.txt
 
 python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
 
+# Create .env file
+
+create a file name .env in project/.env
+go to https://groq.com/ generate a api key
+
+inside .env:
+GROQ_API_KEY = PASTE_YOUR_API_KEY
+DEBUG = TRUE
+
 # 🤖 ML Model Setup
 
 Before running the server, train the model:
